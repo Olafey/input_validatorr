@@ -1,0 +1,8 @@
+:root {
+  --bg-color: white;
+  --sec-bg-color: rgb(235, 235, 235);
+  --hover: rgb(242, 211, 242);
+  --button: purple;
+  --button-text-color: white;
+  --text-color: black;
+}
