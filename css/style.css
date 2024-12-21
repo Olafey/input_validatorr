@@ -6,3 +6,18 @@
   --button-text-color: white;
   --text-color: black;
 }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body {
+  width: 100vh;
+}
+
+html {
+  scroll-behavior: smooth;
+}
